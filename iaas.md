@@ -1,6 +1,6 @@
 ---
 title: IAAS
-layout: template
+layout: default
 filename: iaas.md
 --- 
 ## IAAS
